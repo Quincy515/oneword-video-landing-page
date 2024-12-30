@@ -5,56 +5,72 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+January 1, 2025
 
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+This privacy policy sets out how OneWrod uses and protects any information that you provide to us when you use this website.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+OneWrod is committed to respecting the privacy of visitors and the confidentiality of their personal data when browsing this website. Any information we ask you to provide, by which you can be identified when using this website, will only be used in accordance with this privacy statement.
 
-<br>
+OneWrod may change this Privacy Policy from time to time by updating this page. It is recommended that you check this page from time to time to ensure that you are not missing out on any changes. When this Privacy Policy is changed in a material way, a notice will be posted on our website along with the updated Privacy Policy. If you do not agree with any of the terms and conditions set forth in this Privacy Policy please do not use OneWrod.
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
-
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
-
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+OneWrod intends and adheres to universal set of data protection principles included in applicable laws, by not sharing or making use of any private or personal data, with any of the users or any other third parties. OneWrod undertakes to make use of such information, only for big data and for general statistical, social, sociological, cultural, general psychological purposes, for scientific research and development for humanistic purposes and for improvement of lingual algorithms of OneWrod software and onewrod.video at large.
 
 <br>
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+## Consent
+By accessing this website, you are indicating your express and unconditional consent and agreement to the collection, transfer, processing, use and storage of any personal information, which may be obtained from you as a result of your use of the website.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+## Collection of Personal Data, IP Addresses and Other Information
+We may collect the following information:
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+- Your name
+- Your contact information including your email address
+- Your demographic information such as your preferences and interests
+- Your language learning levels
+- Your IP address and visit details, including access time, browser type, referring URL and other technical information in relation to your visit
+- Other information that you may provide to our user surveys and feedbacks.
 
-<br>
+The website sends this data to OneWrod servers. We require this data to better attend to your needs and provide you with a better service, and in particular:
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
-
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
-
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
-
-<br>
-
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+- internal record keeping
+- anonymous statistical analysis, such as tracking the number and location of visitors, as well as their activities while on this website (including the pages they view, the date and time of view, number of videos they watch, the questions they answer right or wrong and the videos they liked or disliked)
+- to provide the users with a better OneWord experience by improving our products and services
+- to ensure the website’s safety, improve its operation and tailor the OneWord content to users’ requests, in accordance with your interests
+- to update the users about new products, special offers or other information which we think you may find interesting using the email address which you have provided, if you tell us that you wish this to happen.
 
 <br>
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## Security
+We are committed to ensuring the security of your personal information collected, as a result of your use of this website. In order to prevent unlawful or accidental destruction, accidental loss, unauthorized disclosure or access, or other unlawful forms of processing and to fully secure the information we collect online, we implement a variety of physical and electronic measures into our servers.
+
+## No Warranties
+OneWord does not provide any express or implied representations or warranties of any kind in relation to its ability to control, collect, correct, process, use, store, protect or transfer any personal information or does not guarantee the existence or effectiveness of any security measures. OneWord will not be liable for access, disclosure, use or modification of your personal information by any third parties, or the damages due to computer viruses or other harmful elements and their effects on your personal information.
+
+OneWord, its affiliates, partners, and their respective employees, officers, directors or insurers will not be liable to you or to any other person for any costs, damages or liability of any nature, arising or resulting from the collection, use, transfer, processing or storage of personal information obtained by us due to your use of this website.
+
+<br>
+
+## Cookies
+The website may use cookies to remember the visitor in further visits, to help us provide you with a better online experience, by enabling us to monitor your preferences. A cookie does not give us access to your computer or any information about you other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. However, this may prevent you from taking full advantage of OneWord.
+
+We use Google Analytics to provide us with information about how you use our website which we use to help us to improve our website. Google uses cookies as part of this process (please see Google's Privacy Policy for more information).
+
+<br>
+
+## Links to other websites
+Our website may contain links to other websites from time to time. However, you should note that we do not have any control over the websites that you may connect through links from our website. Therefore, we cannot be held responsible for the protection and privacy of any information which you provide while visiting such sites and such sites are not governed by this Privacy Policy.
+
+<br>
+
+## Controlling your personal information
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+- if you are asked to fill in a form on the website regarding personal data, please click check the decline box to let us know that you do not want the information to be used by anybody for direct marketing purposes,
+- if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at contact@oneword.video.
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties, which we think you may find interesting if you tell us that you wish this to happen.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above e-mail address.
